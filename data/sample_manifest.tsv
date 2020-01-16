@@ -1,0 +1,3 @@
+sample	status	group
+rnaseq-qc-toolkit-01	ready	control
+rnaseq-qc-toolkit-02	review	case
